@@ -15,6 +15,9 @@ This is an simple project where the idea is connect a sinatra project with OpenA
 $ bundle install
 ```
 
+2. Copy the file `.env.example` into another one named `.env`
+3. In `.env` file add your token in the key `TOKEN_OPENAI`, and save the file
+
 ## How to run the project?
 
 In your terminal run the command
